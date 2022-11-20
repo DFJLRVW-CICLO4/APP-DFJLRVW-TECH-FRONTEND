@@ -1,2 +1,3 @@
 # APP-DFJLRVW-TECH-FRONTEND
-Frontend Proyecto ciclo 4 programación Mintic 2022 Grupo B
+Proyecto Mintic 2022 Ciclo 4 Grupo 70
+
